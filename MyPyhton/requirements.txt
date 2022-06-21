@@ -10,7 +10,7 @@ django-request==1.5.4
 idna==2.8
 importlib-metadata==0.18
 more-itertools==7.1.0
-numpy==1.17.2
+numpy==1.22.0
 packaging==19.0
 pandas==0.25.1
 pluggy==0.12.0
